@@ -1,0 +1,23 @@
+[
+ {
+  "RuleID": "generic-api-key",
+  "Description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+  "StartLine": 18,
+  "EndLine": 18,
+  "StartColumn": 4,
+  "EndColumn": 63,
+  "Match": "api-secret-key: gD6r8NoqVY3yxsD3FT41uUTX2UXXqXJvXpALD/3pdo0=",
+  "Secret": "gD6r8NoqVY3yxsD3FT41uUTX2UXXqXJvXpALD/3pdo0=",
+  "File": "src/main/resources/application.yml",
+  "SymlinkFile": "",
+  "Commit": "424c649f81e01dfae67ccdf550f898c65183944d",
+  "Link": "https://github.com/RPK2911/Backendjenkins/blob/424c649f81e01dfae67ccdf550f898c65183944d/src/main/resources/application.yml#L18",
+  "Entropy": 4.752172,
+  "Author": "Simply Byte",
+  "Email": "umarfariznew1266@gmail.com",
+  "Date": "2025-08-17T06:23:18Z",
+  "Message": "Add files via upload",
+  "Tags": [],
+  "Fingerprint": "424c649f81e01dfae67ccdf550f898c65183944d:src/main/resources/application.yml:generic-api-key:18"
+ }
+]
